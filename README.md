@@ -1,1 +1,1 @@
-Learn Git branches 
+Learn Git commands
